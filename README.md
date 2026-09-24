@@ -32,4 +32,4 @@ skill ディレクトリの中にバックアップや作業用コピーを置�
 
 ## ライセンス
 
-MIT。元にした素材と出典は [LICENSE](LICENSE) を参照。
+MIT（[LICENSE](LICENSE)）。元にした素材と出典は [NOTICE](NOTICE) を参照。

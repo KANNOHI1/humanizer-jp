@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This work is derived from the following MIT-licensed projects:
-
-- blader/humanizer — Copyright (c) 2025 Siqi Chen
-  https://github.com/blader/humanizer
-- matsuikentaro1/humanizer_academic — Copyright (c) 2025 Kentaro Matsui
-  https://github.com/matsuikentaro1/humanizer_academic
-- hardikpandya/stop-slop — Copyright (c) 2025 Hardik Pandya
-  https://github.com/hardikpandya/stop-slop
-
-Ideas were also adapted (rewritten in Japanese, not copied) from
-k16shikano's cognitive-rhythm-writing:
-  https://gist.github.com/k16shikano/eb2929f13ed19c97188393d297be8432
